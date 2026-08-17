@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   network_info_plus: ^6.0.0
-  permission_handler: ^11.3.0
+  permission_handler: ^13.0.1
 
 dev_dependencies:
   flutter_test:
